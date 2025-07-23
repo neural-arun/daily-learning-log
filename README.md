@@ -19,7 +19,7 @@ Welcome to my **Daily Learning Log** — a public diary documenting my journey a
 - **/resources/**  
   Optional folder for useful links, references, setups, and tools.
 
-You can find an index of all daily logs [here](./logs/).
+You can find an index of all daily logs [https://github.com/neural-arun/daily-learning-log/tree/main](./logs/).
 
 ## ✍️ Daily Entry Template
 
